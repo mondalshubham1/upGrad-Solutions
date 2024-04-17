@@ -2,7 +2,7 @@
 // number operations to convert str1 to str2
 import java.io.*;
 
-class EDIST {
+class EditDistance {
     static int min(int x, int y, int z)
     {
         if (x <= y && x <= z)
